@@ -10,7 +10,7 @@
         <methods>
           <include name="afterResult"/>
           <include name="clearReport"/>
-          <include name="exploreTut" invocation-numbers="0 2"/>
+          <include name="exploreTut"/>
           <include name="authenticate"/>
           <include name="setReport"/>
         </methods>

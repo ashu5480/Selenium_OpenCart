@@ -338,3 +338,23 @@ Session ID: a317a6c2f2c7f5ee51ed0ad0df335359
 2025-07-22 19:41:30 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.1th Opeartion 
 2025-07-22 19:41:30 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
 2025-07-22 19:41:31 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 22:27:33 INFO  com.aventstack.extentreports.model.Log - Test_Cases are Skipped : exploreTut
+2025-07-22 22:29:24 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 22:29:27 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 22:29:27 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 22:29:28 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 22:29:40 INFO  com.aventstack.extentreports.model.Log - Selected Country whihc is : ANALYST
+2025-07-22 22:29:41 INFO  com.aventstack.extentreports.model.Log - Selected Department which is : Digital Commerce
+2025-07-22 22:29:41 INFO  com.aventstack.extentreports.model.Log - Selected organistaion : TechCorp
+2025-07-22 22:29:42 INFO  com.aventstack.extentreports.model.Log - Selected Country which is : US
+2025-07-22 22:29:43 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.
+2025-07-22 22:29:45 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 22:29:48 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 22:29:48 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 22:29:49 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 22:30:00 INFO  com.aventstack.extentreports.model.Log - Selected Country whihc is : ANALYST
+2025-07-22 22:30:01 INFO  com.aventstack.extentreports.model.Log - Selected Department which is : Marketing: Advertising/Brand
+2025-07-22 22:30:01 INFO  com.aventstack.extentreports.model.Log - Selected organistaion : CodeInc
+2025-07-22 22:30:02 INFO  com.aventstack.extentreports.model.Log - Selected Country which is : IN
+2025-07-22 22:30:03 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.
+2025-07-22 22:30:04 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
