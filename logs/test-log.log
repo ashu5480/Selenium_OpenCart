@@ -1,0 +1,340 @@
+2025-07-22 13:37:27 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 13:38:08 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 13:38:30 INFO  com.aventstack.extentreports.model.Log - User Account is Created
+2025-07-22 13:38:32 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 13:38:50 INFO  com.aventstack.extentreports.model.Log - User Account is LoggedIn
+2025-07-22 13:38:51 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 13:50:45 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 13:51:12 INFO  com.aventstack.extentreports.model.Log - User Account is Created
+2025-07-22 13:51:14 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 13:51:32 INFO  com.aventstack.extentreports.model.Log - User Account is LoggedIn
+2025-07-22 13:51:33 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 13:58:15 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 13:58:16 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : signupUser
+2025-07-22 13:59:00 INFO  com.aventstack.extentreports.model.Log - This test case is failed : signupUser
+2025-07-22 13:59:00 ERROR com.aventstack.extentreports.model.Log - Failed Test CasesignupUser Reason : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#Signup\-FirstNameField"}
+  (Session info: chrome=138.0.7204.101)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9def4694507325f8bbd348ee84e0e5b6, findElement {using=id, value=Signup-FirstNameField}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61705}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61705/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9def4694507325f8bbd348ee84e0e5b6
+2025-07-22 13:59:01 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : loginUser
+2025-07-22 13:59:01 INFO  com.aventstack.extentreports.model.Log - Test_Cases are Skipped : loginUser
+2025-07-22 13:59:02 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 15:39:01 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 15:39:28 INFO  com.aventstack.extentreports.model.Log - User Account is Created
+2025-07-22 15:39:31 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 15:39:49 INFO  com.aventstack.extentreports.model.Log - User Account is LoggedIn
+2025-07-22 15:39:51 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 15:41:23 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 15:42:10 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 15:48:07 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 15:49:12 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 15:50:09 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 16:03:16 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:03:36 INFO  com.aventstack.extentreports.model.Log - User Account is LoggedIn
+2025-07-22 16:03:38 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:04:25 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 16:05:16 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:05:34 INFO  com.aventstack.extentreports.model.Log - User Account is LoggedIn
+2025-07-22 16:05:36 INFO  com.aventstack.extentreports.model.Log - Navigated to main Page
+2025-07-22 16:05:38 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:06:26 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 16:11:49 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:12:13 INFO  com.aventstack.extentreports.model.Log - User Account is LoggedIn
+2025-07-22 16:12:14 INFO  com.aventstack.extentreports.model.Log - Navigated to main Page
+2025-07-22 16:12:47 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:13:34 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 16:13:38 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:13:55 INFO  com.aventstack.extentreports.model.Log - User Account is LoggedIn
+2025-07-22 16:13:56 INFO  com.aventstack.extentreports.model.Log - Navigated to main Page
+2025-07-22 16:14:30 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:15:19 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 16:16:51 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:17:10 INFO  com.aventstack.extentreports.model.Log - User Account is LoggedIn
+2025-07-22 16:17:11 INFO  com.aventstack.extentreports.model.Log - Navigated to main Page
+2025-07-22 16:17:15 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:18:02 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 16:19:54 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:20:14 INFO  com.aventstack.extentreports.model.Log - User Account is LoggedIn
+2025-07-22 16:20:15 INFO  com.aventstack.extentreports.model.Log - Navigated to main Page
+2025-07-22 16:20:18 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:21:09 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 16:35:04 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:35:05 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 16:35:35 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 16:35:35 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2e772aebc800997c11f236153463df5, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51528}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51528/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d2e772aebc800997c11f236153463df5
+2025-07-22 16:35:55 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 16:35:57 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 16:36:25 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 16:36:25 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a7fcdb25cd9e5a091170d6188c89b22, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51620}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51620/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a7fcdb25cd9e5a091170d6188c89b22
+2025-07-22 18:13:15 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 18:13:16 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 18:34:00 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 18:34:02 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 18:35:00 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 18:35:01 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 18:35:27 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 18:35:27 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7bf14b80656f4bc21abc4c9b7cd493b7, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53078}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53078/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7bf14b80656f4bc21abc4c9b7cd493b7
+2025-07-22 18:50:36 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 18:50:37 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 18:50:39 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 18:50:39 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 18:50:40 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 18:50:40 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
+2025-07-22 18:50:41 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 18:51:04 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 18:51:05 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 18:51:06 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 18:51:07 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 18:51:07 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 18:51:07 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
+2025-07-22 18:51:09 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 19:13:29 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:13:30 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:13:32 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:13:33 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:13:34 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:14:14 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 19:14:14 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.NoSuchElementException: Cannot locate option with value: Analyst
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown
+2025-07-22 19:14:17 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:14:18 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:14:19 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:14:20 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:14:20 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:16:09 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:16:10 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:16:11 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:16:12 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:16:12 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:16:58 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 19:16:58 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.NoSuchElementException: Cannot locate option with value: United States
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown
+2025-07-22 19:17:01 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:17:01 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:17:03 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:17:03 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:17:04 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:17:58 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 19:17:58 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.NoSuchElementException: Cannot locate option with value: Developer
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown
+2025-07-22 19:18:01 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:18:02 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:18:04 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:18:04 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:18:05 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:18:40 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 19:18:40 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=138.0.7204.158)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cb6de5f95f5a80ff6f0cda3acbe2ec7c, sendKeysToElement {value=[Ljava.lang.CharSequence;@795f5d51, id=f.B363350083466F9EA948573AD94F5C0F.d.BA1F47E53DD8E3B8879A4E02114D09EE.e.57}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55112}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55112/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (cb6de5f95f5a80ff6f0cda3acbe2ec7c)] -> id: FirstName]
+Session ID: cb6de5f95f5a80ff6f0cda3acbe2ec7c
+2025-07-22 19:18:54 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:18:55 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:18:56 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:18:56 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:18:57 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:19:16 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
+2025-07-22 19:19:18 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:19:19 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:19:20 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:19:21 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:19:22 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:20:24 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 19:20:24 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.NoSuchElementException: Cannot locate option with text: CXO/EVP
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown
+2025-07-22 19:20:26 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:20:27 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:20:29 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:20:29 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:20:29 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:21:09 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 19:21:09 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.NoSuchElementException: Cannot locate option with text: SVP/VP
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown
+2025-07-22 19:21:11 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 19:22:26 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:22:26 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:22:28 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:22:29 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:22:29 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:23:21 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 19:23:21 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.NoSuchElementException: Cannot locate option with text: ANALYST
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown
+2025-07-22 19:23:24 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:23:25 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:23:27 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:23:52 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:23:53 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:23:54 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:23:55 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:23:55 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:24:36 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 19:24:36 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.NoSuchElementException: Cannot locate option with text: US
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: unknown
+2025-07-22 19:24:39 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:24:40 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:24:42 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:24:43 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:24:44 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:25:34 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:25:35 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:25:36 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:25:36 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:25:37 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:33:18 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:33:20 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:33:21 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:33:22 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:33:23 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:33:32 INFO  com.aventstack.extentreports.model.Log - Selected Country whihc is : ANALYST
+2025-07-22 19:33:32 INFO  com.aventstack.extentreports.model.Log - Selected Department which is : Digital Commerce
+2025-07-22 19:33:33 INFO  com.aventstack.extentreports.model.Log - Selected organistaion : TechCorp
+2025-07-22 19:33:33 INFO  com.aventstack.extentreports.model.Log - Selected Country which is : US
+2025-07-22 19:33:34 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.1th Opeartion 
+2025-07-22 19:33:34 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
+2025-07-22 19:33:36 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:33:37 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:33:39 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:33:39 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:33:40 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:33:52 INFO  com.aventstack.extentreports.model.Log - Selected Country whihc is : ANALYST
+2025-07-22 19:33:53 INFO  com.aventstack.extentreports.model.Log - Selected Department which is : Marketing: Advertising/Brand
+2025-07-22 19:33:53 INFO  com.aventstack.extentreports.model.Log - Selected organistaion : CodeInc
+2025-07-22 19:33:54 INFO  com.aventstack.extentreports.model.Log - Selected Country which is : IN
+2025-07-22 19:33:54 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.1th Opeartion 
+2025-07-22 19:33:54 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
+2025-07-22 19:33:57 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:33:57 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:33:59 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:34:00 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:34:00 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:34:24 INFO  com.aventstack.extentreports.model.Log - Selected Country whihc is : SENIOR_VP
+2025-07-22 19:34:25 INFO  com.aventstack.extentreports.model.Log - Selected Department which is : IT: Security
+2025-07-22 19:34:25 INFO  com.aventstack.extentreports.model.Log - Selected organistaion : SoftSolutions
+2025-07-22 19:34:26 INFO  com.aventstack.extentreports.model.Log - Selected Country which is : IT
+2025-07-22 19:34:27 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.1th Opeartion 
+2025-07-22 19:34:27 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
+2025-07-22 19:34:27 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 19:35:25 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:35:26 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:35:27 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:35:27 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:35:28 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:36:03 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 19:36:03 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=138.0.7204.158)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae540ca18ac5277b00d093ce74e48b40, sendKeysToElement {value=[Ljava.lang.CharSequence;@3ce53f6a, id=f.F9DD97D6BD5988B8531C1A915DBE0385.d.A2E5584B793F86C31E1716255A0B3BC7.e.70}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57612}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57612/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ae540ca18ac5277b00d093ce74e48b40)] -> id: FirstName]
+Session ID: ae540ca18ac5277b00d093ce74e48b40
+2025-07-22 19:36:06 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:36:06 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:36:08 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:36:08 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:36:08 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:36:31 INFO  com.aventstack.extentreports.model.Log - Selected Country whihc is : ANALYST
+2025-07-22 19:36:31 INFO  com.aventstack.extentreports.model.Log - Selected Department which is : Marketing: Advertising/Brand
+2025-07-22 19:36:32 INFO  com.aventstack.extentreports.model.Log - Selected organistaion : CodeInc
+2025-07-22 19:36:32 INFO  com.aventstack.extentreports.model.Log - Selected Country which is : IN
+2025-07-22 19:36:33 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.1th Opeartion 
+2025-07-22 19:36:33 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
+2025-07-22 19:36:35 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:36:36 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:36:37 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:36:38 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:36:39 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:37:17 INFO  com.aventstack.extentreports.model.Log - This test case is failed : exploreTut
+2025-07-22 19:37:17 ERROR com.aventstack.extentreports.model.Log - Failed Test CaseexploreTut Reason : org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=138.0.7204.158)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a317a6c2f2c7f5ee51ed0ad0df335359, sendKeysToElement {value=[Ljava.lang.CharSequence;@56399b9e, id=f.D3F8C5F1D399D4BD7F1A1378C472E74D.d.79B13A2E50A8A2EC9E98D0421A39FED9.e.72}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57949}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57949/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a317a6c2f2c7f5ee51ed0ad0df335359)] -> id: FirstName]
+Session ID: a317a6c2f2c7f5ee51ed0ad0df335359
+2025-07-22 19:37:18 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 19:40:32 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:40:33 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:40:34 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:40:35 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:40:35 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:40:45 INFO  com.aventstack.extentreports.model.Log - Selected Country whihc is : ANALYST
+2025-07-22 19:40:45 INFO  com.aventstack.extentreports.model.Log - Selected Department which is : Digital Commerce
+2025-07-22 19:40:45 INFO  com.aventstack.extentreports.model.Log - Selected organistaion : TechCorp
+2025-07-22 19:40:46 INFO  com.aventstack.extentreports.model.Log - Selected Country which is : US
+2025-07-22 19:40:46 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.1th Opeartion 
+2025-07-22 19:40:46 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
+2025-07-22 19:40:49 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:40:50 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:40:51 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:40:51 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:40:52 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:41:05 INFO  com.aventstack.extentreports.model.Log - Selected Country whihc is : ANALYST
+2025-07-22 19:41:05 INFO  com.aventstack.extentreports.model.Log - Selected Department which is : Marketing: Advertising/Brand
+2025-07-22 19:41:05 INFO  com.aventstack.extentreports.model.Log - Selected organistaion : CodeInc
+2025-07-22 19:41:06 INFO  com.aventstack.extentreports.model.Log - Selected Country which is : IN
+2025-07-22 19:41:07 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.1th Opeartion 
+2025-07-22 19:41:07 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
+2025-07-22 19:41:09 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 19:41:10 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : exploreTut
+2025-07-22 19:41:11 INFO  com.aventstack.extentreports.model.Log - Clicked on MainMenu Button
+2025-07-22 19:41:12 INFO  com.aventstack.extentreports.model.Log - Content is Visible and clicked on that
+2025-07-22 19:41:13 INFO  com.aventstack.extentreports.model.Log - Clicked on Genstudio
+2025-07-22 19:41:27 INFO  com.aventstack.extentreports.model.Log - Selected Country whihc is : SENIOR_VP
+2025-07-22 19:41:28 INFO  com.aventstack.extentreports.model.Log - Selected Department which is : IT: Security
+2025-07-22 19:41:28 INFO  com.aventstack.extentreports.model.Log - Selected organistaion : SoftSolutions
+2025-07-22 19:41:29 INFO  com.aventstack.extentreports.model.Log - Selected Country which is : IT
+2025-07-22 19:41:30 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.1th Opeartion 
+2025-07-22 19:41:30 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : exploreTut
+2025-07-22 19:41:31 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
