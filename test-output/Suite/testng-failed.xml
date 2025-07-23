@@ -6,15 +6,15 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="opencart.test.ExploreTutorialTest">
+      <class name="opencart.test.ProductSearchTest">
         <methods>
           <include name="afterResult"/>
+          <include name="searchProduct" invocation-numbers="0 1"/>
           <include name="clearReport"/>
-          <include name="exploreTut"/>
           <include name="authenticate"/>
           <include name="setReport"/>
         </methods>
-      </class> <!-- opencart.test.ExploreTutorialTest -->
+      </class> <!-- opencart.test.ProductSearchTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

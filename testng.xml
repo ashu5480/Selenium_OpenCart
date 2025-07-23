@@ -15,8 +15,13 @@
 			</class>
 			<class name="opencart.test.ExploreTutorialTest">
 				<methods>
-					<include name="exploreTut" />
+					<exclude name="exploreTut" />
 				</methods>
+			</class>
+			<class name="opencart.test.ProductSearchTest">
+			  <methods>
+			     <include name="searchProduct"/>
+			  </methods>
 			</class>
 		</classes>
 	</test> <!-- Test -->

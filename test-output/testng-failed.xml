@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="opencart.test.ExploreTutorialTest">
+      <class name="opencart.test.ProductSearchTest">
         <methods>
           <include name="afterResult"/>
+          <include name="searchProduct"/>
           <include name="clearReport"/>
-          <include name="exploreTut"/>
           <include name="authenticate"/>
           <include name="setReport"/>
         </methods>
-      </class> <!-- opencart.test.ExploreTutorialTest -->
+      </class> <!-- opencart.test.ProductSearchTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

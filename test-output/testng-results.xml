@@ -1,133 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-22T22:29:14 IST" name="Default suite" finished-at="2025-07-22T22:30:04 IST" duration-ms="49952">
+  <suite started-at="2025-07-23T09:40:07 IST" name="Default suite" finished-at="2025-07-23T09:40:36 IST" duration-ms="29127">
     <groups>
     </groups>
-    <test started-at="2025-07-22T22:29:14 IST" name="Default test" finished-at="2025-07-22T22:30:04 IST" duration-ms="49952">
-      <class name="opencart.test.ExploreTutorialTest">
-        <test-method is-config="true" signature="setReport()[pri:0, instance:opencart.test.ExploreTutorialTest@f6c03cb]" started-at="2025-07-22T22:29:14 IST" name="setReport" finished-at="2025-07-22T22:29:14 IST" duration-ms="382" status="PASS">
+    <test started-at="2025-07-23T09:40:07 IST" name="Default test" finished-at="2025-07-23T09:40:36 IST" duration-ms="29127">
+      <class name="opencart.test.ProductSearchTest">
+        <test-method is-config="true" signature="setReport()[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:07 IST" name="setReport" finished-at="2025-07-23T09:40:07 IST" duration-ms="393" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setReport -->
-        <test-method is-config="true" signature="authenticate()[pri:0, instance:opencart.test.ExploreTutorialTest@f6c03cb]" started-at="2025-07-22T22:29:15 IST" name="authenticate" finished-at="2025-07-22T22:29:25 IST" duration-ms="9920" status="PASS">
+        <test-method is-config="true" signature="authenticate()[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:08 IST" name="authenticate" finished-at="2025-07-23T09:40:16 IST" duration-ms="7299" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- authenticate -->
-        <test-method signature="exploreTut(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:opencart.test.ExploreTutorialTest@f6c03cb]" started-at="2025-07-22T22:29:25 IST" name="exploreTut" data-provider="userExcel" finished-at="2025-07-22T22:29:43 IST" duration-ms="17466" status="PASS">
+        <test-method signature="searchProduct(java.lang.String)[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:16 IST" name="searchProduct" data-provider="searchProduct" finished-at="2025-07-23T09:40:16 IST" duration-ms="464" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[John]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Doe]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[john.doe@example.com]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[ANALYST]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[Digital Commerce]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[TechCorp]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[US]]>
+                <![CDATA[iphone16]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- exploreTut -->
-        <test-method is-config="true" signature="afterResult(org.testng.ITestResult)[pri:0, instance:opencart.test.ExploreTutorialTest@f6c03cb]" started-at="2025-07-22T22:29:43 IST" name="afterResult" finished-at="2025-07-22T22:29:43 IST" duration-ms="72" status="PASS">
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="afterResult(org.testng.ITestResult)[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:16 IST" name="afterResult" finished-at="2025-07-23T09:40:16 IST" duration-ms="33" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=exploreTut status=SUCCESS method=ExploreTutorialTest.exploreTut(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:opencart.test.ExploreTutorialTest@f6c03cb] output={null}]]]>
+                <![CDATA[[TestResult name=searchProduct status=SUCCESS method=ProductSearchTest.searchProduct(java.lang.String)[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterResult -->
-        <test-method is-config="true" signature="authenticate()[pri:0, instance:opencart.test.ExploreTutorialTest@f6c03cb]" started-at="2025-07-22T22:29:43 IST" name="authenticate" finished-at="2025-07-22T22:29:47 IST" duration-ms="4625" status="PASS">
+        <test-method is-config="true" signature="authenticate()[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:16 IST" name="authenticate" finished-at="2025-07-23T09:40:24 IST" duration-ms="8190" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- authenticate -->
-        <test-method signature="exploreTut(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:opencart.test.ExploreTutorialTest@f6c03cb]" started-at="2025-07-22T22:29:47 IST" name="exploreTut" data-provider="userExcel" finished-at="2025-07-22T22:30:03 IST" duration-ms="15072" status="PASS">
+        <test-method signature="searchProduct(java.lang.String)[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:24 IST" name="searchProduct" data-provider="searchProduct" finished-at="2025-07-23T09:40:25 IST" duration-ms="420" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Alice]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Smith]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[alice.smith@example.com]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[ANALYST]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[Marketing: Advertising/Brand]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[CodeInc]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[IN]]>
+                <![CDATA[Oneplus]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- exploreTut -->
-        <test-method is-config="true" signature="afterResult(org.testng.ITestResult)[pri:0, instance:opencart.test.ExploreTutorialTest@f6c03cb]" started-at="2025-07-22T22:30:03 IST" name="afterResult" finished-at="2025-07-22T22:30:03 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="afterResult(org.testng.ITestResult)[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:25 IST" name="afterResult" finished-at="2025-07-23T09:40:25 IST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=exploreTut status=SUCCESS method=ExploreTutorialTest.exploreTut(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:opencart.test.ExploreTutorialTest@f6c03cb] output={null}]]]>
+                <![CDATA[[TestResult name=searchProduct status=SUCCESS method=ProductSearchTest.searchProduct(java.lang.String)[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterResult -->
-        <test-method is-config="true" signature="clearReport()[pri:0, instance:opencart.test.ExploreTutorialTest@f6c03cb]" started-at="2025-07-22T22:30:03 IST" name="clearReport" finished-at="2025-07-22T22:30:04 IST" duration-ms="1020" status="PASS">
+        <test-method is-config="true" signature="authenticate()[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:25 IST" name="authenticate" finished-at="2025-07-23T09:40:33 IST" duration-ms="8457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authenticate -->
+        <test-method signature="searchProduct(java.lang.String)[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:33 IST" name="searchProduct" data-provider="searchProduct" finished-at="2025-07-23T09:40:34 IST" duration-ms="514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphone15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="afterResult(org.testng.ITestResult)[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:34 IST" name="afterResult" finished-at="2025-07-23T09:40:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchProduct status=SUCCESS method=ProductSearchTest.searchProduct(java.lang.String)[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterResult -->
+        <test-method is-config="true" signature="clearReport()[pri:0, instance:opencart.test.ProductSearchTest@6e4de19b]" started-at="2025-07-23T09:40:34 IST" name="clearReport" finished-at="2025-07-23T09:40:36 IST" duration-ms="2114" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearReport -->
-      </class> <!-- opencart.test.ExploreTutorialTest -->
+      </class> <!-- opencart.test.ProductSearchTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

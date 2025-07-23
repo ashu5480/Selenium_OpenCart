@@ -358,3 +358,76 @@ Session ID: a317a6c2f2c7f5ee51ed0ad0df335359
 2025-07-22 22:30:02 INFO  com.aventstack.extentreports.model.Log - Selected Country which is : IN
 2025-07-22 22:30:03 INFO  com.aventstack.extentreports.model.Log - Operation Succesfull.
 2025-07-22 22:30:04 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 23:31:42 INFO  com.aventstack.extentreports.model.Log - Test_Cases are Skipped : searchProduct
+2025-07-22 23:32:25 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : searchProduct
+2025-07-22 23:32:25 INFO  com.aventstack.extentreports.model.Log - This test case is failed : searchProduct
+2025-07-22 23:32:25 ERROR com.aventstack.extentreports.model.Log - Failed Test CasesearchProduct Reason : java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-07-22 23:32:25 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : searchProduct
+2025-07-22 23:32:26 INFO  com.aventstack.extentreports.model.Log - This test case is failed : searchProduct
+2025-07-22 23:32:26 ERROR com.aventstack.extentreports.model.Log - Failed Test CasesearchProduct Reason : java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-07-22 23:32:58 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 23:33:02 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : searchProduct
+2025-07-22 23:33:32 INFO  com.aventstack.extentreports.model.Log - This test case is failed : searchProduct
+2025-07-22 23:33:32 ERROR com.aventstack.extentreports.model.Log - Failed Test CasesearchProduct Reason : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='JFPqaw']"}
+  (Session info: chrome=138.0.7204.158)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [230c666738df66d09a543096b9886a95, findElement {using=xpath, value=//div[@class='JFPqaw']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63439}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63439/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 230c666738df66d09a543096b9886a95
+2025-07-22 23:33:36 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 23:33:42 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : searchProduct
+2025-07-22 23:34:12 INFO  com.aventstack.extentreports.model.Log - This test case is failed : searchProduct
+2025-07-22 23:34:12 ERROR com.aventstack.extentreports.model.Log - Failed Test CasesearchProduct Reason : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='JFPqaw']"}
+  (Session info: chrome=138.0.7204.158)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2abf331585977aea0a456ace336e9c94, findElement {using=xpath, value=//div[@class='JFPqaw']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63497}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63497/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2abf331585977aea0a456ace336e9c94
+2025-07-22 23:34:15 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 23:34:32 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 23:34:36 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : searchProduct
+2025-07-22 23:34:36 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : iphone16
+2025-07-22 23:34:36 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : searchProduct
+2025-07-22 23:34:39 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 23:34:44 INFO  com.aventstack.extentreports.model.Log - Test Case Execution Started : searchProduct
+2025-07-22 23:34:44 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : Oneplus
+2025-07-22 23:34:44 INFO  com.aventstack.extentreports.model.Log - Test Cases are success : searchProduct
+2025-07-22 23:34:46 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 23:37:18 INFO  com.aventstack.extentreports.model.Log - Total Number of Row and Column :Row Count 3  Column Count : 1
+2025-07-22 23:37:21 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 23:37:26 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : iphone16
+2025-07-22 23:37:29 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-22 23:37:34 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : Oneplus
+2025-07-22 23:37:36 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-22 23:39:20 INFO  com.aventstack.extentreports.model.Log - Total Number of Row and Column :Row Count 3  Column Count : 1
+2025-07-22 23:41:02 INFO  com.aventstack.extentreports.model.Log - Total Number of Row and Column :Row Count 3  Column Count : 1
+2025-07-23 09:27:27 INFO  com.aventstack.extentreports.model.Log - Total Number of Row and Column :Row Count 3  Column Count : 1
+2025-07-23 09:28:04 INFO  com.aventstack.extentreports.model.Log - Total Number of Row and Column :Row Count 3  Column Count : 1
+2025-07-23 09:28:33 INFO  com.aventstack.extentreports.model.Log - Total Number of Row and Column :Row Count 3  Column Count : 1
+2025-07-23 09:28:44 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-23 09:28:48 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : iphone16
+2025-07-23 09:28:51 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-23 09:28:56 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : Oneplus
+2025-07-23 09:28:58 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-23 09:36:50 INFO  com.aventstack.extentreports.model.Log - Total Number of Row and Column :Row Count 3  Column Count : 1
+2025-07-23 09:38:42 INFO  com.aventstack.extentreports.model.Log - Total Number of Row and Column :Row Count 3  Column Count : 1
+2025-07-23 09:38:46 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-23 09:38:51 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : iphone16
+2025-07-23 09:38:54 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-23 09:38:59 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : Oneplus
+2025-07-23 09:39:02 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-23 09:39:12 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
+2025-07-23 09:40:08 INFO  com.aventstack.extentreports.model.Log - Total Number of Row and Column :Row Count 3  Column Count : 1
+2025-07-23 09:40:11 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-23 09:40:16 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : iphone16
+2025-07-23 09:40:19 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-23 09:40:25 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : Oneplus
+2025-07-23 09:40:28 INFO  com.aventstack.extentreports.model.Log - Chrome Browser Initialized
+2025-07-23 09:40:34 INFO  com.aventstack.extentreports.model.Log - Searched Product which is : iphone15
+2025-07-23 09:40:36 INFO  com.aventstack.extentreports.model.Log - TestCases Suits are Done
